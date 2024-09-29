@@ -29,3 +29,15 @@ emojis are easy :sunglasses:
 At first I felt like :weary:
 
 but now it's all :muscle:
+
+
+## Keyboard shortcuts
+Shortcuts I use nonstop: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-F (find)
+
+Shortcuts I should start using: 
+- Alt-F2 (quick command window)
+- Ctrl + L (clear terminal)
+- Ctrl + R (search in command history)
