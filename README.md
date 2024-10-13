@@ -1,3 +1,5 @@
+[CLI commands](docs/cli.md)
+
 ## Number row characters
 
 ###
